@@ -92,8 +92,8 @@ ECU 방문단 숙소는 함덕해수욕장 인근 Ocean Grand Hotel이다.
 
 ### 5.1 특강 주제
 
-**FIM and HGN as Playful Lenses for Culture and Happiness**  
-*Feel the signal, find the function, shape the story*
+**행복재설계: 인본성장서사로 읽는 문화교류와 성장 이야기**  
+*Redesigning Happiness: Cultural Exchange and Growth through Humanistic Growth Narrative*
 
 ### 5.2 기획 의도
 

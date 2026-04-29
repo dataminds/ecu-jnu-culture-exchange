@@ -6,7 +6,9 @@
 
 ## 제목
 
-FIM and HGN as Playful Lenses for Culture and Happiness
+행복재설계: 인본성장서사로 읽는 문화교류와 성장 이야기
+
+Redesigning Happiness: Cultural Exchange and Growth through Humanistic Growth Narrative
 
 ## 슬라이드 흐름
 

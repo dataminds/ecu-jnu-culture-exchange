@@ -9,8 +9,8 @@
 - 장소: 제주대학교 캠퍼스 및 저녁 식사 장소
 - 참여: East Carolina University 학생 24명, 교수 5명 / 제주대학교 학부생 10명 내외 예상
 - ECU 소속: College of Fine Arts and Communication
-- 공식 일정: 제주대학교 사회과학대학-ECU College of Fine Arts and Communication MOU 체결식
-- 참석 내빈: 양측 학장
+- 공식 일정: 제주대학교 사회과학대학-ECU College of Fine Arts and Communication MOU 추진 협의와 연계된 공식 교류 행사
+- MOU 관련: ECU 학장은 이번 방문에 동행하지 않으며, 5월 1-11일 중 관련자 Zoom 미팅을 통해 문안과 체결 방식을 협의 예정
 - 학생 모집: 별도 모집 사이트에서 진행
 
 ## 프로그램 취지
@@ -19,7 +19,7 @@ East Carolina University 방문단의 제주대학교 방문 일정에 맞추어
 
 오후 프로그램은 단순한 캠퍼스 안내가 아니라, 제주대 학생과 ECU 학생이 서로의 대학생활과 청년문화를 직접 만나고, 사진 기반의 짧은 이야기를 함께 만들어보는 교류 활동입니다. ECU 방문단의 전체 테마가 `Media and Culture in Korean Context`인 만큼, 미디어·예술·공연 분야 학생들이 제주대 캠퍼스와 축제 분위기를 직접 경험하고 이를 시각적 이야기로 정리하도록 구성합니다.
 
-당일 오후에는 제주대학교 사회과학대학과 ECU College of Fine Arts and Communication 간 MOU 체결식도 함께 진행됩니다. 따라서 이 행사는 학생 교류 프로그램이면서 동시에 양 단과대학 간 공식 교류의 의미를 갖습니다.
+당일 오후 행사는 제주대학교 사회과학대학과 ECU College of Fine Arts and Communication 간 MOU 추진 협의와 연계된 공식 교류 행사입니다. ECU 학장은 이번 방문에 동행하지 않지만 MOU 추진에 관심이 높으므로, 5월 1-11일 중 관련자 Zoom 미팅을 통해 문안, 서명 방식, 체결 일정을 먼저 협의하는 방향으로 준비합니다.
 
 ## 참가자 구성
 
@@ -31,6 +31,8 @@ ECU 방문단은 총 29명입니다.
 | School of Art and Design | 8명 | 2명 |
 | School of Theatre and Dance | 8명 | 1명 |
 | 합계 | 24명 | 5명 |
+
+학생 성비는 남학생 6명, 여학생 18명으로 약 1:3입니다. School of Art and Design 학생 중 대학원생이 소수 포함되어 있으나 별도 운영 조정은 필요하지 않습니다.
 
 제주대학교 측에서는 학부생 10명 내외가 2부 문화교류 활동과 3부 저녁 식사교류에 참여하는 상황을 기준으로 준비합니다. 희망 학생은 1부 공식행사 및 특강에도 참여할 수 있습니다. 최종 모집 인원에 따라 팀 수와 식사 인원은 조정합니다.
 
@@ -45,28 +47,28 @@ ECU 방문단은 오전에 제주 4.3평화공원, 절물자연휴양림, 제주
 | 12:00-13:00 | 제주돌문화공원 | 야외 전시물 중심 관람 |
 | 13:00-14:10 | 제주대학교 인근 자율 늦은 점심 | 대운동장 옆 주차장 하차 기준, 교내 학생식당 및 학교 근처 식당 이용 가능 |
 | 14:15-14:30 | 제주대학교 도착 및 행사장 이동 | 대형버스 대운동장 옆 주차장 이용 |
-| 14:30-14:50 | MOU 체결식 | 사회과학대학-ECU 단과대, 양측 학장 참석 |
+| 14:30-14:50 | 공식 환영 및 MOU 추진 안내 | 사회과학대학-ECU 단과대 교류 취지, 향후 MOU 협의 일정 공유 |
 | 14:50-16:00 | 1부 특강 | 행복재설계: 인본성장서사로 읽는 문화교류와 성장 이야기 |
 | 16:00-17:30 | 2부 문화교류 활동 | 팀별 3컷 사진 이야기 제작 |
 | 17:30-20:00 | 3부 저녁 식사교류 | 제주대 학생, ECU 학생·교수진 공동 식사 |
 
-## 1부: MOU 체결식 및 특강
+## 1부: 공식 환영 및 특강
 
-### MOU 체결식
+### 공식 환영 및 MOU 추진 안내
 
-14:30-14:50에는 제주대학교 사회과학대학과 ECU College of Fine Arts and Communication 간 MOU 체결식이 진행됩니다. 양측 학장이 참석하며, MOU 서명과 기념촬영 후 특강으로 전환합니다.
+14:30-14:50에는 제주대학교 사회과학대학과 ECU College of Fine Arts and Communication 간 공식 교류 취지를 소개하고, 향후 MOU 추진 방향을 간단히 안내합니다. MOU 문안과 체결 방식은 5월 1-11일 중 관련자 Zoom 미팅을 통해 별도로 협의합니다.
 
 ### 1부 특강
 
 14:50-16:00에는 **행복재설계: 인본성장서사로 읽는 문화교류와 성장 이야기**를 주제로 특강을 진행합니다.
 
-FIM은 행복을 기능과 지표의 관계로 이해하는 틀입니다.
+FIM(Function-Indicator Model)은 행복을 기능과 지표의 관계로 이해하는 틀입니다.
 
 - Driving functions: competence, relatedness, autonomy
 - Meta functions: self-acceptance, personal growth, purpose in life
 - Indicators: emotions, life satisfaction
 
-HGN은 경험을 성장의 이야기로 정리하는 틀입니다. 이 프로그램에서는 `acceptance`, `transformation`, `expansion`의 세 흐름으로 단순화하여 사용합니다.
+HGN(Humanistic Growth Narrative)은 경험을 성장의 이야기로 정리하는 틀입니다. 이 프로그램에서는 `acceptance`, `transformation`, `expansion`의 세 흐름으로 단순화하여 사용합니다.
 
 특강은 2부 활동을 지시하거나 미리 기획하는 시간이 아니라, 학생들이 문화교류 장면을 바라볼 수 있는 공통 언어를 갖도록 돕는 시간입니다.
 
@@ -92,7 +94,7 @@ HGN은 경험을 성장의 이야기로 정리하는 틀입니다. 이 프로그
 
 이 페이지는 세부 행정 문서가 아니라 행사 공유용 안내입니다. 다만 원활한 운영을 위해 관계자 간에는 아래 사항을 확인해 두면 좋습니다.
 
-- MOU 체결식 참석자, 진행 순서, 기념촬영 방식
+- MOU 관련 Zoom 미팅 일정, 참석 범위, 논의 안건
 - 1부 특강 장소와 장비
 - 2부 혼합팀 구성 방식
 - 제주대 학생 최종 모집 인원에 따른 팀 수 조정
@@ -113,6 +115,6 @@ HGN은 경험을 성장의 이야기로 정리하는 틀입니다. 이 프로그
 | [행사 운영표](docs/05-run-of-show.md) | 분 단위 현장 운영 흐름 |
 | [역할분담표](docs/06-roles-and-contacts.md) | 담당자와 연락망 정리 |
 | [Notion 운영안](docs/08-notion-template-and-permissions.md) | 팀별 Notion 페이지 템플릿과 권한 운영 |
-| [MOU 체결식 체크리스트](docs/17-mou-ceremony-checklist.md) | MOU 체결식 의전 준비 항목 |
+| [MOU 협의 체크리스트](docs/17-mou-consultation-checklist.md) | MOU 사전 Zoom 협의 및 후속 체결 준비 항목 |
 | [메시지 템플릿](docs/16-message-templates.md) | 관계자 공유, 학생 안내, ECU 안내 문안 |
 

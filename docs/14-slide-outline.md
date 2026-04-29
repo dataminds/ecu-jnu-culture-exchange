@@ -2,7 +2,7 @@
 
 > 상위 안내 페이지: [ECU-JNU 문화교류 비교과 프로그램 안내](../README.md)
 
-> 특강은 MOU 체결식 이후 14:50-16:00에 진행한다.
+> 특강은 공식 환영 및 MOU 추진 안내 이후 14:50-16:00에 진행한다.
 
 ## 제목
 
@@ -17,10 +17,10 @@ Redesigning Happiness: Cultural Exchange and Growth through Humanistic Growth Na
 | 1 | Welcome to JNU | 오늘의 분위기와 목표 |
 | 2 | Body-Mind Check-in | 지금 컨디션을 한 단어로 표현 |
 | 3 | Feelings Are Signals | 감정은 평가가 아니라 신호 |
-| 4 | FIM in One Picture | Driving functions, meta functions, indicators |
+| 4 | FIM in One Picture | Function-Indicator Model: driving functions, meta functions, indicators |
 | 5 | Function Guessing Game | 장면 보고 기능 맞히기 |
 | 6 | Why Stories Matter | 경험은 이야기로 정리된다 |
-| 7 | HGN in Three Frames | Acceptance, transformation, expansion |
+| 7 | HGN in Three Frames | Humanistic Growth Narrative: acceptance, transformation, expansion |
 | 8 | Story Flip | 어색함을 성장 이야기로 바꾸기 |
 | 9 | Photo Lens Demo | 사진에 FIM 기능·지표와 HGN 구조 붙이기 |
 | 10 | Pair Talk | One signal, one possible story |

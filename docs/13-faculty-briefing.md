@@ -4,7 +4,7 @@
 
 ## Program Overview
 
-The ECU-JNU Culture Exchange is a student-centered program connecting ECU students with Jeju National University students. The afternoon program also includes an official MOU signing ceremony between the JNU College of Social Sciences and the ECU College of Fine Arts and Communication, attended by both deans.
+The ECU-JNU Culture Exchange is a student-centered program connecting ECU students with Jeju National University students. The afternoon program is connected to future MOU discussions between the JNU College of Social Sciences and the ECU College of Fine Arts and Communication. Since the ECU dean will not travel with the group, MOU details will be discussed separately through a Zoom meeting with relevant participants.
 
 ## Purpose
 
@@ -14,14 +14,14 @@ The program is designed to help students experience Korean campus culture, inter
 
 | Time | Activity |
 |---|---|
-| 2:30-2:50 PM | Official MOU signing ceremony |
+| 2:30-2:50 PM | Official welcome and MOU update |
 | 2:50-4:00 PM | Interactive lecture: Introduction to FIM and HGN |
 | 4:00-5:30 PM | Team photo story exchange |
 | 5:30-8:00 PM | Joint dinner |
 
-## Official Ceremony
+## Official Welcome
 
-The MOU ceremony marks the formal exchange between the two colleges. Faculty are invited to attend the ceremony and remain for the student exchange program that follows.
+The opening segment marks the formal exchange context between the two colleges and briefly notes the planned MOU discussion process. Faculty are invited to attend the opening and remain for the student exchange program that follows.
 
 ## Part 1
 

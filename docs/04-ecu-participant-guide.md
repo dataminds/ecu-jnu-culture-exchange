@@ -20,14 +20,14 @@ The group is expected to arrive at Jeju National University between 2:15 PM and 
 
 | Time         | Program                      | What Happens                               |
 | ------------ | ---------------------------- | ------------------------------------------ |
-| 2:30-2:50 PM | Official MOU Signing Ceremony | MOU between JNU College of Social Sciences and ECU College of Fine Arts and Communication, attended by both deans |
+| 2:30-2:50 PM | Official Welcome and MOU Update | Welcome, exchange context, and brief update on future MOU discussions |
 | 2:50-4:00 PM | Part 1: Interactive Lecture  | Introduction to FIM and HGN                |
 | 4:00-5:30 PM | Part 2: Photo Story Exchange | Make a three-photo story with JNU students |
 | 5:30-8:00 PM | Part 3: Joint Dinner         | Casual conversation and dinner             |
 
-## Official MOU Signing Ceremony
+## Official Welcome and MOU Update
 
-The afternoon program begins with an MOU signing ceremony between the JNU College of Social Sciences and the ECU College of Fine Arts and Communication. The deans of both colleges will attend.
+The afternoon program begins with an official welcome and a brief update on future MOU discussions between the JNU College of Social Sciences and the ECU College of Fine Arts and Communication. The ECU dean will not travel with the group, so MOU details will be discussed separately through a Zoom meeting with relevant participants.
 
 ## What Are FIM and HGN?
 

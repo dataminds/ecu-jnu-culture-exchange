@@ -113,5 +113,6 @@ HGN은 경험을 성장의 이야기로 정리하는 틀입니다. 이 프로그
 | [역할분담표](docs/06-roles-and-contacts.md) | 담당자와 연락망 정리 |
 | [Notion 운영안](docs/08-notion-template-and-permissions.md) | 팀별 Notion 페이지 템플릿과 권한 운영 |
 | [MOU 체결식 체크리스트](docs/17-mou-ceremony-checklist.md) | MOU 체결식 의전 준비 항목 |
+| [강진애 교수 답신 반영안](docs/18-professor-kang-response-reflection-plan.md) | 도착, 점심, 인원, MOU, 특강 제목 변경 반영안 |
 | [메시지 템플릿](docs/16-message-templates.md) | 관계자 공유, 학생 안내, ECU 안내 문안 |
 

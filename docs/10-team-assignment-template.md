@@ -26,7 +26,7 @@
 
 | 소속 | 학생 수 |
 |---|---:|
-| School of Communication | 9 |
+| School of Communication | 8 |
 | School of Art and Design | 8 |
 | School of Theatre and Dance | 8 |
 

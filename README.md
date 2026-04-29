@@ -7,7 +7,7 @@
 - 행사명: ECU-JNU FIM/HGN Photo Story Culture Exchange
 - 일시: 2026년 5월 28일(목) 14:30-20:00
 - 장소: 제주대학교 캠퍼스 및 저녁 식사 장소
-- 참여: East Carolina University 학생 25명, 교수 5명 / 제주대학교 학부생 10명 내외 예상
+- 참여: East Carolina University 학생 24명, 교수 5명 / 제주대학교 학부생 10명 내외 예상
 - ECU 소속: College of Fine Arts and Communication
 - 공식 일정: 제주대학교 사회과학대학-ECU College of Fine Arts and Communication MOU 체결식
 - 참석 내빈: 양측 학장
@@ -23,14 +23,14 @@ East Carolina University 방문단의 제주대학교 방문 일정에 맞추어
 
 ## 참가자 구성
 
-ECU 방문단은 총 30명입니다.
+ECU 방문단은 총 29명입니다.
 
 | 소속 | 학생 | 교수 |
 |---|---:|---:|
-| School of Communication | 9명 | 2명 |
+| School of Communication | 8명 | 2명 |
 | School of Art and Design | 8명 | 2명 |
 | School of Theatre and Dance | 8명 | 1명 |
-| 합계 | 25명 | 5명 |
+| 합계 | 24명 | 5명 |
 
 제주대학교 측에서는 학부생 10명 내외가 2부 문화교류 활동과 3부 저녁 식사교류에 참여하는 상황을 기준으로 준비합니다. 희망 학생은 1부 공식행사 및 특강에도 참여할 수 있습니다. 최종 모집 인원에 따라 팀 수와 식사 인원은 조정합니다.
 

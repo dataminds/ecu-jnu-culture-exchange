@@ -7,7 +7,7 @@
 - 행사명: ECU-JNU FIM/HGN Photo Story Culture Exchange
 - 일시: 2026년 5월 28일(목) 14:30-20:00
 - 장소: 제주대학교 캠퍼스 및 저녁 식사 장소
-- 대상: East Carolina University 학생 25명, 교수 5명 / 제주대학교 학부생 10명 내외 예상
+- 대상: East Carolina University 학생 24명, 교수 5명 / 제주대학교 학부생 10명 내외 예상
 - 주관: 제주대학교 언론홍보학과
 - 진행 언어: 영어 중심, 필요 시 한국어 보조
 - 공식 일정: 제주대학교 사회과학대학과 ECU College of Fine Arts and Communication 간 MOU 체결식 포함, 양측 학장 참석

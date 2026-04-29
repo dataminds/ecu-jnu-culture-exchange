@@ -12,6 +12,10 @@ Welcome to Jeju National University. This program is designed as a light, creati
 - Time: 2:30 PM - 8:00 PM
 - Place: Jeju National University campus and dinner venue
 
+## Arrival and Parking
+
+The group is expected to arrive at Jeju National University between 2:15 PM and 2:30 PM by chartered bus. The recommended bus parking and drop-off location is the parking area next to the JNU main athletic field. This location also provides convenient access to campus dining facilities and nearby restaurants for students who have a late lunch before the official program begins.
+
 ## Program Flow
 
 | Time         | Program                      | What Happens                               |
